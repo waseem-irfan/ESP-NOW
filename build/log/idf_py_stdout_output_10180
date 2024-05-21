@@ -1,0 +1,16 @@
+-- IDF_TARGET is not set, guessed 'esp32' from sdkconfig 'C:/Users/DELL/Desktop/Project_ESP32/ESP_NOW_DB/sdkconfig'
+-- Found Git: C:/Espressif/tools/idf-git/2.39.2/cmd/git.exe (found version "2.39.2.windows.1") 
+-- ccache will be used for faster recompilation
+-- The C compiler identification is GNU 12.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/DELL/Desktop/Project_ESP32/ESP_NOW_DB/build/CMakeFiles/CMakeOutput.log".

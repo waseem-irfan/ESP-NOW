@@ -1,0 +1,25 @@
+Compiler supported targets: xtensa-esp32-elf
+
+CMake Error:
+  Running
+
+   'C:/Espressif/tools/ninja/1.10.2/ninja.exe' '-C' 'C:/Users/DELL/Desktop/Project_ESP32/ESP_NOW_DB/build' '-t' 'recompact'
+
+  failed with:
+
+   ninja: error: failed recompaction: Permission denied
+
+
+
+CMake Error:
+  Running
+
+   'C:/Espressif/tools/ninja/1.10.2/ninja.exe' '-C' 'C:/Users/DELL/Desktop/Project_ESP32/ESP_NOW_DB/build' '-t' 'restat' 'build.ninja'
+
+  failed with:
+
+   ninja: error: failed recompaction: Permission denied
+
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

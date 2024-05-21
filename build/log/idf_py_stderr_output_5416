@@ -1,0 +1,12 @@
+CMake Error at C:/Espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake:87 (file):
+  file STRINGS file
+  "C:/Users/DELL/Desktop/Project_ESP32/ESP_NOW_DB/build/CMakeFiles/3.24.0/CMakeDetermineCompilerABI_CXX.bin"
+  cannot be read.
+Call Stack (most recent call first):
+  C:/Espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  C:/Espressif/frameworks/esp-idf-v5.1.1/tools/cmake/project.cmake:448 (__project)
+  CMakeLists.txt:9 (project)
+
+
+Compiler supported targets: xtensa-esp32-elf
+
